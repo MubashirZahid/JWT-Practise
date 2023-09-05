@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 9",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 85,
+    "rating": 4.7,
+    "stock": 94,
+    "brand": "Apple",
+    "category": "smartphones"
+  },
+  {
+    "id": 2,
+    "title": "iPhone X",
+    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "price": 97,
+    "rating": 4.55,
+    "stock": 84,
+    "brand": "Apple",
+    "category": "smartphones"
+  },
+  {
+    "id": 3,
+    "title": "Samsung Universe 9",
+    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "price": 1249,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Samsung",
+    "category": "smartphones"
+  },
+  {
+    "id": 4,
+    "title": "OPPOF19",
+    "description": "OPPO F19 is officially announced on April 2021.",
+    "price": 280,
+    "rating": 4.3,
+    "stock": 123,
+    "brand": "OPPO",
+    "category": "smartphones"
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro",
+    "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "price": 1749,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Apple",
+    "category": "laptops"
+  },
+  {
+    "id": 7,
+    "title": "Samsung Galaxy Book",
+    "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+    "price": 1499,
+    "rating": 4.25,
+    "stock": 50,
+    "brand": "Samsung",
+    "category": "laptops"
+  },
+  {
+    "id": 8,
+    "title": "Microsoft Surface Laptop 4",
+    "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "price": 1499,
+    "rating": 4.43,
+    "stock": 68,
+    "brand": "Microsoft Surface",
+    "category": "laptops"
+  },
+  {
+    "id": 9,
+    "title": "Infinix INBOOK",
+    "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+    "price": 1099,
+    "rating": 4.54,
+    "stock": 96,
+    "brand": "Infinix",
+    "category": "laptops"
+  },
+  {
+    "id": 10,
+    "title": "HP Pavilion 15-DK1056WM",
+    "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+    "price": 1099,
+    "rating": 4.43,
+    "stock": 89,
+    "brand": "HP Pavilion",
+    "category": "laptops"
+  },
+  {
+    "title": "This is a new product title",
+    "description": "This is a new product description",
+    "price": 150,
+    "rating": 3.5,
+    "stock": 10,
+    "id": 11
+  },
+  {
+    "title": "This is a new product title",
+    "description": "This is a new product description",
+    "price": 150,
+    "rating": 3.5,
+    "stock": 10,
+    "id": 12
+  },
+  {
+    "title": "This is a new product title",
+    "description": "This is a new product descriptions",
+    "price": 150,
+    "rating": 3.5,
+    "stock": 10,
+    "id": 13
+  },
+  {
+    "title": "This is a new product title",
+    "description": "This is a new product description",
+    "price": 150,
+    "rating": 3.5,
+    "stock": 10,
+    "id": 14
+  },
+  {
+    "title": "iPhone12",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 600,
+    "rating": 4,
+    "stock": 99,
+    "brand": "Apple",
+    "category": "smartphones",
+    "id": 15
+  },
+  {
+    "title": "iPhone12.2",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 700,
+    "rating": 4.78,
+    "stock": 97,
+    "brand": "Apple",
+    "category": "smartphones",
+    "id": 16
+  }
+]
