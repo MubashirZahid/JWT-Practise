@@ -1,7 +1,6 @@
 const express = require("express");
 const app = express();
 const ProductRouter = require("./routes/Product");
-// const AuthRouter = require("./routes/Auth");
 const AuthRouter = require("./routes/Auth");
 
 const dotenv = require("dotenv");

@@ -12,6 +12,7 @@ const transactionSchema = new mongoose.Schema(
         {
           id: { type: mongoose.Types.ObjectId, ref: "Product" },
           quantity: Number,
+          stock: Number,
         },
       ],
       required: true,

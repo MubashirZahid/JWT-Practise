@@ -16,6 +16,11 @@ const productSchema = new mongoose.Schema({
     required: [true, "Rating was not provided"],
     maxLength: 10,
   },
+  stock: {
+    type: Number,
+    required: [true, "Stock was not provided"],
+    maxLength: 10,
+  },
 });
 
 // userSchema.index({ id: Number });

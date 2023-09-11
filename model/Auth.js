@@ -19,6 +19,10 @@ const authSchema = new mongoose.Schema({
     required: false,
     default: 2,
   },
+  rating: {
+    type: Number,
+    required: true,
+  },
 });
 
 const AuthModel = mongoose.model("Auth", authSchema);

@@ -111,6 +111,26 @@ const validateEmailAndPassword = {
   ],
 };
 
+const cartValidator = {
+  addNewCart: [
+    body("userId")
+      .not()
+      .exists()
+      .withMessage("User Id must be provided")
+      .bail(),
+    body("productId")
+      .exists()
+      .withMessage("Product Id must be provided")
+      .bail(),
+    body("quantity")
+      .not()
+      .exists()
+      .withMessage("Quantity must be provided")
+      .bail(),
+  ],
+};
+
 module.exports = {
   validateEmailAndPassword,
+  cartValidator,
 };
